@@ -18,5 +18,6 @@ Pod::Spec.new do |s|
   s.source_files  = 'PDTSimpleCalendar/**/*.{h,m}'
   s.requires_arc = true
   s.public_header_files = "PDTSimpleCalendar/*.h"
+  s.module_name = 'XPDPDTSimpleCalendar'
 
 end
