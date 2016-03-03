@@ -6,8 +6,8 @@
 //  Copyright (c) 2013 Producteev. All rights reserved.
 //
 
-#import <PDTSimpleCalendar/PDTSimpleCalendarViewController.h>
-#import <PDTSimpleCalendar/PDTSimpleCalendarViewHeader.h>
-#import <PDTSimpleCalendar/PDTSimpleCalendarViewCell.h>
-#import <PDTSimpleCalendar/PDTSimpleCalendarViewFlowLayout.h>
-#import <PDTSimpleCalendar/PDTSimpleCalendarViewWeekdayHeader.h>
+#import <XPDPDTSimpleCalendar/PDTSimpleCalendarViewController.h>
+#import <XPDPDTSimpleCalendar/PDTSimpleCalendarViewHeader.h>
+#import <XPDPDTSimpleCalendar/PDTSimpleCalendarViewCell.h>
+#import <XPDPDTSimpleCalendar/PDTSimpleCalendarViewFlowLayout.h>
+#import <XPDPDTSimpleCalendar/PDTSimpleCalendarViewWeekdayHeader.h>
